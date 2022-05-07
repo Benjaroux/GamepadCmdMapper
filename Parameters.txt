@@ -1,0 +1,2 @@
+A;1000;taskkill /F /IM notepad.exe
+Start,Back;3000;taskkill /F /IM win32calc.exe

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GamepadCmdMapper": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Benjamin\\Documents\\Lab\\Dev\\GamepadCmdMapper\\Parameters.txt",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
