@@ -1,5 +1,7 @@
 # GamepadCmdMapper
 
+GamepadCmdMapper is a tool used for mapping controller buttons with windows commands.
+
 ## Usage
 ```
 GamepadCmdMapper.exe "Parameters.txt"
